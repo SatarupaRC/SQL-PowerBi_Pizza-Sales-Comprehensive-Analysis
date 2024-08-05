@@ -48,9 +48,11 @@ Next, I want to analyze the followings:
 - Part II
 
   - Connected My SQL server with Power BI.
-  - Did some data cleaning using some power queries and employing functions like Transform Data.
-  - Did some data processing by using DAX functionalities to get custom/conditional columns in the power report.
-  - Worked on data visualization, built dynamic dashboard with charts and diagrams and used advanced formalities for formatting the charts.
+  - Cleaned data using power queries and employed functions like Transform Data.
+  - Processed data by using DAX functionalities to get custom and conditional columns in the power report.
+  - Used advanced functionalities to build dynamic dashboard with charts and diagrams for data visualization.
+  - Provided tangible takeaways to make informed business decisions for boosting Pizza sales and improve customer satisfaction using insights gained from the dynamic dashboard.
+
 
 ## Analysis 
 
